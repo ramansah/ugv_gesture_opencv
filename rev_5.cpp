@@ -13,7 +13,7 @@ using namespace cv;
 #define DEFAULT_PORT "27015"
 #define DEFAULT_ADDRESS "192.168.137.1"
 
-//	Max Value of Sliders
+//	Max Value of Sliders ... changing comment
 const int slider_max = 255;
 //	Variables used in TrackBars		
 int hl,hh,sl,sh,vl,vh,ero,dil;
